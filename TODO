@@ -2,3 +2,6 @@
 
 2) Fix tabbing
 
+3) Fix declare versions so have same API (but allow property bag constructors when possible)
+
+4) Show example of declare inheritance, since that is another area it shines
